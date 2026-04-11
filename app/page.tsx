@@ -381,7 +381,7 @@ export default function Home() {
           <Services />
           <Products />
           <WhyChooseUs />
-          <TechStack />
+          {/* <TechStack /> */}
           <Clients />
           <CTA />
         </main>

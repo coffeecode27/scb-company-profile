@@ -7,27 +7,27 @@ import { Users, Building2, Zap, TrendingUp } from "lucide-react";
 export const reasons: Reason[] = [
   {
     icon: Users,
-    title: "Experienced Team",
+    title: "Tim Berpengalaman",
     description:
-      "Seasoned professionals with 10+ years in custom software development and digital transformation.",
+      "Profesional berpengalaman lebih dari 10 tahun dalam pengembangan software kustom dan transformasi digital.",
   },
   {
     icon: Building2,
-    title: "Scalable Architecture",
+    title: "Arsitektur Skalabel",
     description:
-      "Built with future growth in mind. Our solutions scale seamlessly with your business needs.",
+      "Dirancang untuk pertumbuhan jangka panjang. Solusi kami dapat berkembang selaras dengan kebutuhan bisnis Anda.",
   },
   {
     icon: Zap,
-    title: "Fast Delivery",
+    title: "Delivery Cepat",
     description:
-      "Agile methodology ensures rapid development without compromising on quality and standards.",
+      "Metodologi agile memastikan pengembangan cepat tanpa mengorbankan kualitas dan standar.",
   },
   {
     icon: TrendingUp,
-    title: "Business-Oriented",
+    title: "Berorientasi Bisnis",
     description:
-      "We focus on ROI and business outcomes, not just technology. Your success is our priority.",
+      "Kami fokus pada ROI dan hasil bisnis, bukan hanya teknologi. Kesuksesan Anda adalah prioritas kami.",
   },
 ];
 
@@ -35,8 +35,8 @@ export const reasons: Reason[] = [
  * Statistics data configuration
  */
 export const stats = [
-  { stat: "150+", label: "Projects Completed" },
-  { stat: "50+", label: "Happy Clients" },
-  { stat: "100%", label: "Delivery Rate" },
-  { stat: "10+", label: "Years Experience" },
+  { stat: "150+", label: "Proyek Selesai" },
+  { stat: "50+", label: "Klien Puas" },
+  { stat: "100%", label: "Tingkat Pengiriman" },
+  { stat: "10+", label: "Tahun Pengalaman" },
 ];

@@ -7,7 +7,7 @@ export default function Services() {
   return (
     <section
       id="services"
-      className="relative py-20 overflow-hidden"
+      className="relative py-16 overflow-hidden"
       aria-labelledby="services-heading"
     >
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -40,14 +40,15 @@ export default function Services() {
             return (
               <div
                 key={index}
-                className="group relative"
+                className="group relative h-full"
                 style={{ animationDelay: getAnimationDelay(index) }}
                 role="listitem"
               >
                 {/* Card */}
                 <div
                   className="
-                    relative p-8 rounded-3xl
+                    relative h-full p-8 rounded-3xl
+                    flex flex-col
                     dark:bg-[#1a3a5c]/60 dark:border-white/10
                     bg-white border-gray-300
                     transition-all duration-300 ease-out

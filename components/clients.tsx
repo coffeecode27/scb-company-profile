@@ -41,7 +41,7 @@ export default function Clients() {
   ];
 
   return (
-    <section className="relative py-20 sm:py-32" aria-label="Klien terpercaya">
+    <section className="relative py-16 sm:py-24" aria-label="Klien terpercaya">
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-16 animate-in fade-in slide-in-from-bottom duration-1000">

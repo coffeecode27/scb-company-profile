@@ -7,26 +7,26 @@ import { Settings, Smartphone, Link2, Bot } from "lucide-react";
 export const services: Service[] = [
   {
     icon: Settings,
-    title: "Custom Software Development",
+    title: "Pengembangan Software Kustom",
     description:
-      "Tailored solutions built to your specific business needs with cutting-edge technology and best practices.",
+      "Solusi khusus yang dibangun sesuai kebutuhan bisnis Anda dengan teknologi modern dan praktik terbaik.",
   },
   {
     icon: Smartphone,
-    title: "Web & Mobile Apps",
+    title: "Aplikasi Web & Mobile",
     description:
-      "Responsive and powerful applications for web, iOS, and Android platforms to reach your customers everywhere.",
+      "Aplikasi responsif dan andal untuk web, iOS, dan Android agar bisnis Anda menjangkau pelanggan di mana saja.",
   },
   {
     icon: Link2,
-    title: "System Integration",
+    title: "Integrasi Sistem",
     description:
-      "Seamlessly connect your existing systems and data sources for unified, efficient operations.",
+      "Hubungkan sistem dan sumber data yang sudah ada secara mulus untuk operasional yang lebih efisien dan terpadu.",
   },
   {
     icon: Bot,
-    title: "Automation Solutions",
+    title: "Solusi Otomasi",
     description:
-      "Streamline your workflows and reduce manual tasks with intelligent automation systems.",
+      "Sederhanakan alur kerja dan kurangi tugas manual dengan sistem otomasi yang cerdas.",
   },
 ];

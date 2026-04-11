@@ -93,13 +93,6 @@ export default function Navbar() {
                   Produk
                   <span className="absolute bottom-0 left-0 w-full h-0.5 bg-primary transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
                 </button>
-                <button
-                  onClick={() => scrollToSection("tech-stack")}
-                  className="px-4 py-2 font-body font-medium text-foreground transition text-sm relative group"
-                >
-                  Tech Stack
-                  <span className="absolute bottom-0 left-0 w-full h-0.5 bg-primary transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300"></span>
-                </button>
               </div>
             </div>
 

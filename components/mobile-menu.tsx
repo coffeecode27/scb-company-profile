@@ -23,7 +23,6 @@ const NAV_ITEMS = [
   { id: "about", label: "Tentang", icon: Info },
   { id: "services", label: "Layanan", icon: Layers },
   { id: "products", label: "Produk", icon: Box },
-  { id: "tech-stack", label: "Tech Stack", icon: Code2 },
   { id: "clients", label: "Klien", icon: Users },
 ];
 

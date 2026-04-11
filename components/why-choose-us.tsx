@@ -5,7 +5,7 @@ export default function WhyChooseUs() {
   return (
     <section
       id="why-choose-us"
-      className="relative py-20 sm:py-32 overflow-hidden"
+      className="relative py-16 sm:py-24 overflow-hidden"
       aria-labelledby="why-choose-us-heading"
     >
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

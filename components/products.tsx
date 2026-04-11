@@ -8,7 +8,7 @@ export default function Products() {
   return (
     <section
       id="products"
-      className="relative py-20 overflow-hidden"
+      className="relative py-16 overflow-hidden"
       aria-labelledby="products-heading"
     >
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

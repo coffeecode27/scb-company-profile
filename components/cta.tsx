@@ -55,7 +55,7 @@ export default function CTA() {
     <section
       id="contact"
       ref={sectionRef}
-      className="relative py-20 overflow-hidden"
+      className="relative py-16 overflow-hidden"
       aria-labelledby="contact-heading"
     >
       {/* Animated Gradient Mesh Background */}
