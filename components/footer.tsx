@@ -195,7 +195,7 @@ export default function Footer() {
                   className="hover:text-primary transition flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
                 >
                   <Mail className="w-4 h-4 shrink-0" />
-                  cs@verd.net.id
+                  sales@solusicerdas.org
                 </a>
               </li>
             </ul>

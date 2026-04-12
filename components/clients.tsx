@@ -19,24 +19,24 @@ export default function Clients() {
   const testimonials = [
     {
       quote:
-        "PT Solusi Cerdas Berkualitas menyelesaikan sistem kami tepat waktu dengan kualitas luar biasa. Keahlian dan dedikasi tim mereka melampaui ekspektasi kami.",
-      author: "RSBA",
+        "Tim bekerja dengan cepat, komunikatif, dan hasilnya sesuai kebutuhan kami.",
+      author: "RSPUR",
       sector: "Sektor Kesehatan",
       initials: "RS",
     },
     {
       quote:
-        "Profesional, inovatif, dan dapat diandalkan. Mereka mentransformasi kehadiran digital kami dan membantu menjangkau pasar baru.",
+        "Pelayanannya profesional dan proses pengerjaannya jelas dari awal sampai selesai.",
       author: "Universitas Malahayati",
       sector: "Sektor Pendidikan",
-      initials: "UN",
+      initials: "UM",
     },
     {
       quote:
-        "Dukungan teknis yang luar biasa dan solusi inovatif. Sangat direkomendasikan untuk organisasi yang ingin melakukan transformasi digital.",
-      author: "Abulyatama",
+        "Solusi yang diberikan tepat sasaran dan tim selalu responsif saat dibutuhkan.",
+      author: "Universitas Abulyatama",
       sector: "Sektor Pendidikan",
-      initials: "AB",
+      initials: "UA",
     },
   ];
 

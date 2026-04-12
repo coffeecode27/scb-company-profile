@@ -21,7 +21,7 @@ export default function About() {
 
             <div className="space-y-6">
               <p className="text-lg font-body text-muted-foreground leading-relaxed">
-                Didirikan pada 2014,{" "}
+                Didirikan pada 2020,{" "}
                 <strong className="text-foreground">
                   PT Solusi Cerdas Berkualitas
                 </strong>{" "}
@@ -40,7 +40,7 @@ export default function About() {
             <div className="grid grid-cols-3 gap-6 pt-8">
               <div className="text-center">
                 <div className="text-3xl sm:text-4xl font-bold text-primary mb-2">
-                  10+
+                  5+
                 </div>
                 <p className="text-sm font-body text-muted-foreground">
                   Tahun Pengalaman
@@ -48,7 +48,7 @@ export default function About() {
               </div>
               <div className="text-center">
                 <div className="text-3xl sm:text-4xl font-bold text-primary mb-2">
-                  150+
+                  10+
                 </div>
                 <p className="text-sm font-body text-muted-foreground">
                   Proyek Selesai
@@ -56,7 +56,7 @@ export default function About() {
               </div>
               <div className="text-center">
                 <div className="text-3xl sm:text-4xl font-bold text-primary mb-2">
-                  50+
+                  10+
                 </div>
                 <p className="text-sm font-body text-muted-foreground">
                   Klien Puas
@@ -96,9 +96,8 @@ export default function About() {
                     Visi Kami
                   </h3>
                   <p className="text-base font-body text-muted-foreground leading-relaxed">
-                    Menjadi mitra tepercaya bagi bisnis yang ingin
-                    bertransformasi digital melalui solusi inovatif yang
-                    mendorong pertumbuhan dan kesuksesan.
+                    Menciptakan produk yang membantu sebanyak-banyaknya orang
+                    dan membawa manfaat seluas-luasnya (rahmatan lil ‘alamin).
                   </p>
                 </div>
               </div>
@@ -127,9 +126,9 @@ export default function About() {
                     Misi Kami
                   </h3>
                   <p className="text-base font-body text-muted-foreground leading-relaxed">
-                    Memberdayakan bisnis melalui teknologi terdepan dan kualitas
-                    pengerjaan terbaik, memastikan setiap solusi yang kami
-                    bangun memberi nilai jangka panjang.
+                    Dengan teknologi sebagai amanah dan syariah sebagai kompas,
+                    kami membangun produk dan solusi yang membawa manfaat nyata
+                    — bagi manusia, hari ini dan esok hari.
                   </p>
                 </div>
               </div>
@@ -158,8 +157,9 @@ export default function About() {
                     Nilai Kami
                   </h3>
                   <p className="text-base font-body text-muted-foreground leading-relaxed">
-                    Keunggulan, Inovasi, Integritas, dan Kolaborasi adalah
-                    prinsip inti yang memandu setiap proyek yang kami kerjakan.
+                    Kami membangun teknologi sebagai alat kebaikan yang
+                    memberikan manfaat nyata. Setiap langkah kami dilandasi
+                    kejujuran dan amanah. Bersama, kami tumbuh dan berkembang.
                   </p>
                 </div>
               </div>
