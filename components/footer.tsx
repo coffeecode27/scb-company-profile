@@ -62,7 +62,7 @@ export default function Footer() {
               PT Solusi Cerdas Berkualitas
             </h3>
             <p className="text-muted-foreground text-sm leading-relaxed">
-              Mengubah ide menjadi solusi digital yang kuat sejak 2014.
+              Mengubah ide menjadi solusi digital yang kuat sejak 2020.
             </p>
             <div className="flex gap-4 pt-4">
               {socialLinks.map((social) => (
