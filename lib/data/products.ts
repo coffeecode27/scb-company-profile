@@ -5,57 +5,51 @@ import { Product } from "@/types";
  */
 export const products: Product[] = [
   {
-    name: "Dashboard Analitik",
+    name: "Hospital Information System (SIMRS)",
     description:
-      "Platform business intelligence dan analitik real-time dengan dashboard yang dapat dikustomisasi.",
-    tag: "Aplikasi Bisnis",
-    image:
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
-    color: "from-blue-500/90 to-cyan-500/90",
+      "Sistem informasi manajemen rumah sakit yang terintegrasi untuk mengelola seluruh operasional layanan kesehatan secara efisien.",
+    tag: "Healthcare Solutions",
+    image: "/project%20img/simrs.jpeg",
+    color: "from-cyan-600/90 to-blue-600/90",
   },
   {
-    name: "Platform E-Commerce",
+    name: "Radiology Information System (RIS)",
     description:
-      "Solusi toko online lengkap dengan manajemen inventaris dan integrasi pembayaran.",
+      "Sistem informasi radiologi untuk pengelolaan data pemeriksaan, jadwal, dan hasil radiologi secara digital.",
+    tag: "Healthcare Solutions",
+    image: "/project%20img/RIS-Radiology-Information-System.png",
+    color: "from-blue-500/90 to-indigo-600/90",
+  },
+  {
+    name: "Content Management System (CMS)",
+    description:
+      "Platform pengelolaan konten yang fleksibel untuk publikasi, pengeditan, dan distribusi konten digital.",
     tag: "Platform",
-    image:
-      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
-    color: "from-purple-500/90 to-pink-500/90",
+    image: "/project%20img/content%20management%20systems.jpeg",
+    color: "from-violet-500/90 to-purple-600/90",
   },
   {
-    name: "Sistem Manajemen Tugas",
+    name: "Point of Sales (POS)",
     description:
-      "Alat kolaborasi manajemen proyek untuk tim agar alur kerja lebih efisien.",
-    tag: "Alat Internal",
-    image:
-      "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=300&fit=crop",
-    color: "from-green-500/90 to-emerald-500/90",
+      "Sistem kasir dan penjualan modern dengan manajemen stok, laporan transaksi, dan integrasi pembayaran.",
+    tag: "Retail",
+    image: "/project%20img/Point%20of%20sale%20(bnmart).jpeg",
+    color: "from-orange-500/90 to-amber-500/90",
   },
   {
-    name: "CRM Enterprise",
+    name: "SIM Keuangan",
     description:
-      "Sistem manajemen hubungan pelanggan yang dirancang untuk operasional skala enterprise.",
-    tag: "Enterprise",
-    image:
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop",
-    color: "from-orange-500/90 to-red-500/90",
+      "Sistem informasi keuangan untuk pengelolaan anggaran, laporan keuangan, dan monitoring transaksi secara real-time.",
+    tag: "Keuangan",
+    image: "/project%20img/sim-keuangan.jpeg",
+    color: "from-green-500/90 to-emerald-600/90",
   },
   {
-    name: "Pelacak Inventaris",
+    name: "Sistem Penerimaan Mahasiswa Baru (SIPMB)",
     description:
-      "Manajemen inventaris lanjutan dengan pelacakan real-time dan fitur prediksi.",
-    tag: "Bisnis",
-    image:
-      "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=400&h=300&fit=crop",
-    color: "from-yellow-500/90 to-orange-500/90",
-  },
-  {
-    name: "Suite Keuangan",
-    description:
-      "Software manajemen keuangan dan akuntansi yang komprehensif untuk bisnis.",
-    tag: "Enterprise",
-    image:
-      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400&h=300&fit=crop",
-    color: "from-indigo-500/90 to-purple-500/90",
+      "Platform penerimaan mahasiswa baru secara online dengan alur pendaftaran, seleksi, dan pengumuman yang terintegrasi.",
+    tag: "Pendidikan",
+    image: "/project%20img/sistem%20penerimaan%20mahasiswa%20baru(SIPMB).jpeg",
+    color: "from-rose-500/90 to-pink-600/90",
   },
 ];

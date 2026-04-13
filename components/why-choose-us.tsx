@@ -44,14 +44,6 @@ export default function WhyChooseUs() {
                 `}
                 style={{ animationDelay: getAnimationDelay(index) }}
               >
-                {/* Large Number Background */}
-                <div
-                  className="absolute top-1/2 -translate-y-1/2 text-[180px] sm:text-[220px] font-bold text-primary/5 leading-none select-none -z-10"
-                  aria-hidden="true"
-                >
-                  {displayNumber}
-                </div>
-
                 {/* Icon Card */}
                 <div
                   className={`

@@ -365,6 +365,12 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-radial from-transparent via-transparent to-background/50" />
       </div>
 
+      {/* Global Frosted Glass Layer (between background and all sections) */}
+      <div
+        className="fixed inset-0 z-5 pointer-events-none backdrop-blur-[18px] saturate-150 dark:bg-[#0a192f]/35 bg-white/25"
+        aria-hidden="true"
+      />
+
       {/* Skip to main content link for accessibility */}
       <a
         href="#main-content"
