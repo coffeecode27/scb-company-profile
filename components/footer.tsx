@@ -139,7 +139,7 @@ export default function Footer() {
                   href="#products"
                   className="hover:text-primary transition focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
                 >
-                  SIM Keuangan
+                  Sistem Informasi Manajemen keuangan (SIMKEU)
                 </Link>
               </li>
               <li>
@@ -147,7 +147,7 @@ export default function Footer() {
                   href="#products"
                   className="hover:text-primary transition focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
                 >
-                  SIPMB
+                  Sistem Penerimaan Mahasiswa Baru (SIPMB)
                 </Link>
               </li>
             </ul>
