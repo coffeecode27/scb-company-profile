@@ -20,7 +20,7 @@ export default function CTA() {
   };
 
   const handleEmail = () => {
-    window.location.href = "mailto:hello@solucerah.id";
+    window.location.href = "mailto:sales@solusicerdas.org";
   };
 
   useEffect(() => {
