@@ -105,7 +105,7 @@ export default function Footer() {
                       href="#products"
                       className="hover:text-primary transition focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
                     >
-                      Hospital Information System (SIMRS)
+                      Sistem Informasi Manajemen Rumah Sakit (SIMRS)
                     </Link>
                   </li>
                   <li>
@@ -139,7 +139,15 @@ export default function Footer() {
                   href="#products"
                   className="hover:text-primary transition focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
                 >
-                  Sistem Informasi Manajemen keuangan (SIMKEU)
+                  SIM Keuangan
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="#products"
+                  className="hover:text-primary transition focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
+                >
+                  Sistem Informasi Akademik (SIAKAD)
                 </Link>
               </li>
               <li>
