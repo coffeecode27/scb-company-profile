@@ -9,7 +9,7 @@ export default function Footer() {
   const socialLinks = [
     {
       name: "Instagram",
-      href: "https://instagram.com/solusicerdas",
+      href: "https://www.instagram.com/solusicerdasberkualitas/",
       svg: (
         <svg
           className="w-5 h-5"
