@@ -4,8 +4,8 @@ import { TrustedBrand } from "@/types";
  * Trusted brands data configuration with real partner logos
  */
 export const trustedBrands: TrustedBrand[] = [
-  { name: "Abulyatama", logo: "/partners/abulyatama.svg", darkInvert: true },
-  { name: "malahayati", logo: "/partners/malahayati.svg", darkInvert: true },
+  // { name: "Abulyatama", logo: "/partners/abulyatama.svg", darkInvert: true },
+  // { name: "malahayati", logo: "/partners/malahayati.svg", darkInvert: true },
   { name: "RSBA", logo: "/partners/rsba.svg", darkInvert: true },
   { name: "RSPur", logo: "/partners/rspur.svg", darkInvert: true },
 ];

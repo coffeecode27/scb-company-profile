@@ -123,7 +123,7 @@ export default function Clients() {
                   style={{ transform: `translateX(-${currentIndex * 100}%)` }}
                 >
                   {trustedBrands.map((brand, index) => (
-                    <div key={index} className="w-full shrink-0 px-4">
+                    <div key={index} className="w-full flex j shrink-0 px-4">
                       <div className="flex items-center justify-center py-8">
                         <div className="relative h-24 w-auto">
                           <div
@@ -167,19 +167,19 @@ export default function Clients() {
           </div>
 
           {/* Desktop: Static Grid */}
-          <div className="hidden sm:grid sm:grid-cols-4 gap-6 sm:gap-8 max-w-6xl mx-auto">
+          <div className="hidden sm:grid sm:grid-cols-2 gap-6 sm:gap-8 max-w-4xl mx-auto">
             {trustedBrands.map((brand, index) => (
               <div
                 key={index}
                 className={`flex items-center justify-center transition-opacity duration-300${brand.darkInvert ? " dark:bg-white dark:rounded-xl dark:p-4 dark:overflow-hidden" : ""}`}
               >
-                <div className="relative h-24 w-auto">
+                <div className="relative h-24 sm:h-32 w-auto">
                   <Image
                     src={brand.logo}
                     alt={`${brand.name} Logo`}
-                    width={300}
-                    height={200}
-                    className="h-24 w-auto object-contain hover:scale-110 transition-transform duration-300"
+                    width={400}
+                    height={300}
+                    className="h-24 sm:h-32 w-auto object-contain hover:scale-110 transition-transform duration-300"
                   />
                 </div>
               </div>
