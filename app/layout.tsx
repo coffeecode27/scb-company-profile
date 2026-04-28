@@ -19,7 +19,7 @@ const inter = Inter({
   display: "swap",
 });
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://solucerah.id";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://solusicerdas.org";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Tingkatkan efisiensi dan pertumbuhan bisnis Anda dengan jasa custom software dan pengembangan aplikasi web profesional. Dipercaya 200+ klien sejak 2014.",
+    "Tingkatkan efisiensi dan pertumbuhan bisnis Anda dengan jasa custom software dan pengembangan aplikasi web profesional. Dipercaya 10+ klien sejak 2020.",
 
   keywords: [
     "jasa custom software",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     "crm system",
     "digitalisasi bisnis",
     "otomasi bisnis",
-    "software house jakarta",
+    "software house banda aceh",
   ],
 
   authors: [{ name: "PT Solusi Cerdas Berkualitas" }],
@@ -120,26 +120,22 @@ export default function RootLayout({
     name: "PT Solusi Cerdas Berkualitas",
     url: SITE_URL,
     logo: `${SITE_URL}/logo scb/logo1.svg`,
-    foundingDate: "2014",
+    foundingDate: "2020",
     description:
       "Perusahaan pengembang software kustom yang berfokus pada aplikasi web, ERP, CRM, dan solusi digital untuk transformasi bisnis.",
     address: {
       "@type": "PostalAddress",
-      addressLocality: "Jakarta",
+      addressLocality: "Banda Aceh",
       addressCountry: "ID",
     },
     contactPoint: {
       "@type": "ContactPoint",
-      telephone: "+62-21-1234-5678",
+      telephone: "+6289691733479",
       contactType: "customer service",
-      email: "hello@solucerah.id",
+      email: "sales@solusicerdas.org",
       availableLanguage: ["Indonesian", "English"],
     },
-    sameAs: [
-      "https://facebook.com/solucerah",
-      "https://twitter.com/solucerah",
-      "https://linkedin.com/company/solucerah",
-    ],
+    sameAs: ["https://www.instagram.com/solusicerdasberkualitas/"],
     areaServed: {
       "@type": "Country",
       name: "Indonesia",

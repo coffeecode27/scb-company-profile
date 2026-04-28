@@ -16,7 +16,11 @@ export default function CTA() {
   const sectionRef = useRef<HTMLDivElement>(null);
 
   const handleWhatsApp = () => {
-    window.open("https://wa.me/622112345678", "_blank", "noopener,noreferrer");
+    window.open(
+      "https://wa.me/+6289691733479",
+      "_blank",
+      "noopener,noreferrer",
+    );
   };
 
   const handleEmail = () => {

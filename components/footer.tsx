@@ -178,18 +178,18 @@ export default function Footer() {
                   className="hover:text-primary transition flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
                 >
                   <Phone className="w-4 h-4 shrink-0" />
-                  (0651) 36 200 70
+                  (0896) 9173 3479
                 </a>
               </li>
               <li>
                 <a
-                  href="https://wa.me/6281269333588"
+                  href="https://wa.me/+6289691733479"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background rounded"
                 >
                   <Phone className="w-4 h-4 shrink-0" />
-                  0812 6933 3588 (WhatsApp)
+                  0896 9173 3479 (WhatsApp)
                 </a>
               </li>
               <li>

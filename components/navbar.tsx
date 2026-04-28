@@ -99,7 +99,7 @@ export default function Navbar() {
             {/* Contact CTA - Absolute Right (Desktop) */}
             <div className="hidden md:flex absolute right-0 items-center">
               <a
-                href="https://wa.me/622112345678"
+                href="https://wa.me/+6289691733479"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group px-5 py-2.5 rounded-full bg-primary text-primary-foreground font-medium text-sm shadow-md hover:shadow-lg hover:scale-[1.02] active:scale-[0.98] transition-all duration-200 flex items-center gap-2"
